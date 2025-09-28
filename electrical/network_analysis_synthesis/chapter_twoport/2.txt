@@ -1,1 +1,30 @@
-kk
+# My Markdown Example
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Code Example](#code-example)
+3. [Image Example](#image-example)
+4. [Conclusion](#conclusion)
+
+---
+
+## Introduction
+
+Markdown is a lightweight markup language that you can use to format plain text. It's widely used for documentation, readme files, and even blogging.
+
+You can use Markdown to:
+- **Format text** (Bold, Italics, etc.)
+- Create **links** and **lists**
+- Embed **images** and **code**
+
+---
+
+## Code Example
+
+Here’s an example of a Python code snippet:
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("World"))
