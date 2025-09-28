@@ -1,5 +1,5 @@
 Here is an example of an image embedded in Markdown:
 
-![A majestic mountain range with a clear blue sky](https://www.example.com/images/mountain_landscape.jpg "Mountain View")
+![A majestic mountain range with a clear blue sky](https://cdn.mos.cms.futurecdn.net/ntFmJUZ8tw3ULD3tkBaAtf-1200-80.jpg.webp "Mountain View")
 
 This image depicts a beautiful mountain landscape.
